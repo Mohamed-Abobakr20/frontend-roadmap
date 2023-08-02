@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mohamed-Abobakr20/frontend-roadmap/static/css/main.326c9209.css",
+    "main.js": "/Mohamed-Abobakr20/frontend-roadmap/static/js/main.36eba169.js",
+    "index.html": "/Mohamed-Abobakr20/frontend-roadmap/index.html",
+    "main.326c9209.css.map": "/Mohamed-Abobakr20/frontend-roadmap/static/css/main.326c9209.css.map",
+    "main.36eba169.js.map": "/Mohamed-Abobakr20/frontend-roadmap/static/js/main.36eba169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326c9209.css",
+    "static/js/main.36eba169.js"
+  ]
+}
